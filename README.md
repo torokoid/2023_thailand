@@ -110,14 +110,14 @@ a.p:hover span {
   より見やすくご覧頂けます。
 </p>
 
-<p align="left"> <img src="https://torokoid.github.io/2024Jan_Thailand_2/QR_Thailand_5.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_347163.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
     
 <!--ここまでは定型文としてそのままコピペして再利用します-->
     
-<h1><marquee bgcolor="#ffff00"><font color="#ff0000">!!! 1983年入社からの社歴と、定年後に時間を過ごすタイの日常光景を紹介します。羽田 !!!</font></marquee></h1>
+<h1><marquee bgcolor="#ffff00"><font color="#ff0000">!!! 定年後に時間を過ごすタイの日常光景を紹介します。羽田 !!!</font></marquee></h1>
     
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-	
+<!--	
 <h1><span class="snow">社歴等</span></h1>
 <div class="yellow"> 
 <h1>1983年定期採用、オールホンダで600人採用、HGに300人採用された中の一人。<br>
@@ -130,7 +130,7 @@ CMBS（自動ブレーキ）の初期開発で追突ギリギリまで前車に�
 D室課に戻ってCMBSの量産適用を見極めてホッとしたところで、2000年に立ち上がった「商品技術戦略室」に配属。<br>
 最初は6年で卒業したが、その後ことあるごとに企画系の部署にちょくちょく戻る人生となりました。<br>
 2008年～2012年は和光研究所の未来研で様々な業務に従事。<br>
-　⇒　当時は絵に描いた餅だったITS系のシステムが、次々と現実になっていくのを目にしながらの卒業となりました。<br></h1></div>
+　⇒　当時は絵に描いた餅だったITS系のシステムが、次々と現実になっていくのを目にしながらの卒業となりました。<br></h1></div>-->
 <br>
 <h1><span class="snow">本資料の概要</span></h1>
 <div class="yellow"> 
@@ -148,7 +148,7 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 <h2>2023/02/18~26, Thailand！&emsp;&emsp;&emsp;バンコク、パタヤ、チェンライエリア情報<br>
 バンコクの初日の宿、裏の川にはワニのサイズのトカゲが居るとのこと。</h2></div>
 <a href="https://hamata636.github.io/2023thailand/Thailand_000.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_000.jpg" alt="サンプル画像" width="900" /></a>
-    <div class="yellow"><h2>市内の公園に行くと、得物をくわえたワニサイズのトカゲが足元を走りぬけます。</h2></div>
+    <div class="yellow"><h2>市内の公園に行くと、得物(子とかげ？)をくわえたワニサイズのトカゲが足元を走りぬけます。</h2></div>
 <a href="https://torokoid.github.io/2023Dec_Thailand/20231229_115.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2023Dec_Thailand/20231229_115.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2023Dec_Thailand/20231229_114.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2023Dec_Thailand/20231229_114.JPG" alt="サンプル画像" width="900" /></a>
     <div class="yellow"><h2>街の至るところに仏壇があります、一般のご家庭では少し小さいサイズになります。</h2></div>
@@ -166,11 +166,12 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 <a href="https://hamata636.github.io/2023thailand/Thailand_007.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_007.jpg" alt="サンプル画像" width="900" /></a>
     <div class="yellow"><h2>高速で移動したのはプーケットに並ぶリゾート地のパッタヤ</h2></div>
 <a href="https://hamata636.github.io/2023thailand/Thailand_072.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_072.jpg" alt="サンプル画像" width="900" /></a>
-	<div class="yellow"><h2>観光地はロシア人が目立ちます<br>
+<div class="yellow"><h2>観光地はロシア人が目立ちます<br>
         ロビーにはヘッドギヤで通話するおじさん</h2></div>
 <a href="https://hamata636.github.io/2023thailand/Thailand_071.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_071.jpg" alt="サンプル画像" width="900" /></a>
 
-    <div class="yellow"><h2>可愛らしい女の子連れたロシア人、後ろの席にいるのがお父さんでした</h2></div>
+    <div class="yellow"><h2>可愛らしい女の子連れたロシア人、後ろの席にいるのがお父さんでした<br>
+    この家族は徴兵回避でタイに避難している一家ですね。</h2></div>
 <a href="https://hamata636.github.io/2023thailand/Thailand_069.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_069.jpg" alt="サンプル画像" width="900" /></a>
     <div class="yellow"><h2>中国人も居ましたが、ごく少数</h2></div>
 <a href="https://hamata636.github.io/2023thailand/Thailand_070.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_070.jpg" alt="サンプル画像" width="900" /></a>
@@ -364,7 +365,7 @@ APRSとはアマチュア無線機でGPS情報を共有する仕組みですが�
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
 
 <footer>
-    <h2><span class="snow">Copyright S.Hada 2024/Aug/30 @ BEV企画統括部　BEV商品技術企画部　商品技術戦略課</span></h2>
+    <h2><span class="snow">Copyright S.Hada 2024/Jul/7 @ 七夕の夜</span></h2>
 </footer>
     
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->

@@ -211,7 +211,8 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 	
 <a href="https://hamata636.github.io/2023thailand/Thailand_016.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_016.jpg" alt="サンプル画像" width="900" /></a>
 	<div class="yellow"><h2>店員さんが満面の笑みでピースサイン<br>
-        しゃべるまで男だとは分かりませんでした</h2></div>
+        しゃべるまで男だとは分かりませんでした<br>
+	よく聞いたら、なんと親戚！</h2></div>
 <a href="https://hamata636.github.io/2023thailand/Thailand_017.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_017.jpg" alt="サンプル画像" width="900" /></a>
     <div class="yellow"><h2>車で１時間ほど北上すると、国境の街メーサーイ</h2></div>
 <a href="https://hamata636.github.io/2023thailand/Thailand_019.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_019.jpg" alt="サンプル画像" width="900" /></a>

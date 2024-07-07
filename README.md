@@ -148,7 +148,7 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 <h2>2023/02/18~26, Thailand！&emsp;&emsp;&emsp;バンコク、パタヤ、チェンライエリア情報<br>
 バンコクの初日の宿、裏の川にはワニのサイズのトカゲが居るとのこと。</h2></div>
 <a href="https://hamata636.github.io/2023thailand/Thailand_000.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_000.jpg" alt="サンプル画像" width="900" /></a>
-    <div class="yellow"><h2>市内の公園に行くと、得物(子とかげ？)をくわえたワニサイズのトカゲが足元を走りぬけます。</h2></div>
+    <div class="yellow"><h2>市内の公園に行くと、獲物(子とかげ？)をくわえたワニサイズのトカゲが足元を走りぬけます。</h2></div>
 <a href="https://torokoid.github.io/2023Dec_Thailand/20231229_115.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2023Dec_Thailand/20231229_115.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2023Dec_Thailand/20231229_114.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2023Dec_Thailand/20231229_114.JPG" alt="サンプル画像" width="900" /></a>
     <div class="yellow"><h2>街の至るところに仏壇があります、一般のご家庭では少し小さいサイズになります。</h2></div>

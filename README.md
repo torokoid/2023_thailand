@@ -133,6 +133,8 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 2008年～2012年は和光研究所の未来研で様々な業務に従事。<br>
 　⇒　当時は絵に描いた餅だったITS系のシステムが、次々と現実になっていくのを目にしながらの卒業となりました。<br></h1></div>-->
 <br>
+
+<a href="https://torokoid.github.io/2023_thailand/1984_Map.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2023_thailand/1984_Map.JPG" alt="サンプル画像" width="900" /></a>
 <h1><span class="snow">本資料の概要</span></h1>
 <div class="yellow"> 
 <h1>2023年2月時点の情報ですが、タイの一般的な光景を撮りためた映像集です。<br>

@@ -134,7 +134,11 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 　⇒　当時は絵に描いた餅だったITS系のシステムが、次々と現実になっていくのを目にしながらの卒業となりました。<br></h1></div>-->
 <br>
 
-<a href="https://torokoid.github.io/2023_thailand/1984_Map.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2023_thailand/1984_Map.JPG" alt="サンプル画像" width="900" /></a>
+<div class="yellow"> 
+<h2>1980年代の宝積寺エリアと会社周辺の地図、クリックで白地図サイトの地図に飛びます</h2></div>
+<a href="https://mapps.gsi.go.jp/contentsImageDisplay.do?specificationId=1311032&isDetail=false" target="_blank"><img src="https://torokoid.github.io/2023_thailand/1984_Map_2.JPG" alt="サンプル画像" width="900" /></a><br><br>
+<a href="https://mapps.gsi.go.jp/contentsImageDisplay.do?specificationId=1308922&isDetail=false" target="_blank"><img src="https://torokoid.github.io/2023_thailand/1984_Map.JPG" alt="サンプル画像" width="900" /></a>
+
 <h1><span class="snow">本資料の概要</span></h1>
 <div class="yellow"> 
 <h1>2023年2月時点の情報ですが、タイの一般的な光景を撮りためた映像集です。<br>

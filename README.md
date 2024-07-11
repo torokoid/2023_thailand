@@ -110,7 +110,7 @@ a.p:hover span {
   より見やすくご覧頂けます。
 </p>
 
-<p align="left"> <img src="QR_347163.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_347163.png" alt="アクセス用QRコード" width="100"><a href="https://torokoid.github.io/2024Jan_Thailand_2/" target="_blank">アクセス用QRコード</a></p>
     
 <!--ここまでは定型文としてそのままコピペして再利用します-->
     

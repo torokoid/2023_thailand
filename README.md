@@ -144,6 +144,12 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
     西側の道路は樫の森公園で行き止まり、夜には元気な若者たちがゼロヨンで盛り上がってました。</h2></div>
 <a href="https://mapps.gsi.go.jp/contentsImageDisplay.do?specificationId=1308922&isDetail=false" target="_blank"><img src="https://torokoid.github.io/2023_thailand/1984_Map.JPG" alt="サンプル画像" width="900" /></a>
 
+<div class="yellow"> 
+<h2>1980年頃までは宇都宮駅に東口はありませんでした。<br>
+    配属メンバーはほぼ東口側に住んで柳田街道で出社しますが、途中から砂利道。<br>
+    橋を渡ると左折して山道を分け入っての通勤でした。</h2></div>
+<a href="https://mapps.gsi.go.jp/contentsImageDisplay.do?specificationId=1311047&isDetail=false" target="_blank"><img src="https://torokoid.github.io/2023_thailand/1984_Map_3.JPG" alt="サンプル画像" width="900" /></a>
+
 <h1><span class="snow">本資料の概要</span></h1>
 <div class="yellow"> 
 <h1>2023年2月時点の情報ですが、タイの一般的な光景を撮りためた映像集です。<br>

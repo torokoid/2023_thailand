@@ -172,6 +172,7 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 <a href="https://torokoid.github.io/2023Dec_Thailand/20231229_114.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2023Dec_Thailand/20231229_114.JPG" alt="サンプル画像" width="900" /></a>
     <div class="yellow"><h2>街の至るところに仏壇があります、一般のご家庭では少し小さいサイズになります。</h2></div>
 <a href="https://hamata636.github.io/2023thailand/Thailand_001.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_001.jpg" alt="サンプル画像" width="900" /></a>
+    <div class="yellow"><h2>一般のご家庭でもこのサイズなのでかなり大きいです。</h2></div>
 <a href="https://hamata636.github.io/2023thailand/Thailand_081.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_081.jpg" alt="サンプル画像" width="900" /></a>
     <div class="yellow"><h2>タイ人達の車のインパネには、ほぼ漏れなく仏像が鎮座、<br>この車にはルームミラーからもぶら下がってます</h2></div>
 <a href="https://hamata636.github.io/2023thailand/Thailand_002.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_002.jpg" alt="サンプル画像" width="900" /></a>
@@ -186,11 +187,11 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
     <div class="yellow"><h2>高速で移動したのはプーケットに並ぶリゾート地のパッタヤ</h2></div>
 <a href="https://hamata636.github.io/2023thailand/Thailand_072.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_072.jpg" alt="サンプル画像" width="900" /></a>
 <div class="yellow"><h2>観光地はロシア人が目立ちます<br>
-        ロビーにはヘッドギヤで通話するおじさん</h2></div>
+        ロビーにはヘッドギヤで通話するおじさん<br>徴兵回避でタイに来た富裕層です。</h2></div>
 <a href="https://hamata636.github.io/2023thailand/Thailand_071.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_071.jpg" alt="サンプル画像" width="900" /></a>
 
     <div class="yellow"><h2>可愛らしい女の子連れたロシア人、後ろの席にいるのがお父さんでした<br>
-    この家族は徴兵回避でタイに避難している一家ですね。</h2></div>
+    この家族も徴兵回避でタイに避難している一家ですね。</h2></div>
 <a href="https://hamata636.github.io/2023thailand/Thailand_069.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_069.jpg" alt="サンプル画像" width="900" /></a>
     <div class="yellow"><h2>中国人も居ましたが、ごく少数</h2></div>
 <a href="https://hamata636.github.io/2023thailand/Thailand_070.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_070.jpg" alt="サンプル画像" width="900" /></a>

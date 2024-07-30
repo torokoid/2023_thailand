@@ -386,7 +386,7 @@ APRSとはアマチュア無線機でGPS情報を共有する仕組みですが�
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
 
 <footer>
-    <h2><span class="snow">Copyright S.Hada 2024/Jul/7 @ 七夕の夜</span></h2>
+    <h2><span class="snow">Copyright S.Hada 2024/Aug/30 入社当時の略歴・Thailandの近況</span></h2>
 </footer>
     
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->

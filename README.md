@@ -151,6 +151,14 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
     橋を渡ると左折して山道を分け入っての通勤でした。</h2></div>
 <a href="https://mapps.gsi.go.jp/contentsImageDisplay.do?specificationId=1311047&isDetail=false" target="_blank"><img src="https://torokoid.github.io/2023_thailand/1984_Map_3.JPG" alt="サンプル画像" width="900" /></a>
 
+<div class="yellow"> 
+<h2>1984年夏～冬。<br>
+    LAのAM品質部門に長滞。<br>
+    まだ日本に無かったハロウィンを現地で体験。</h2></div>
+<a href="halloween.JPG" target="_blank"><img src="halloween.JPG" alt="サンプル画像" width="900" /></a>
+
+
+<br><br><br>
 <h1><span class="snow">本資料の概要</span></h1>
 <div class="yellow"> 
 <h1>2023年2月時点の情報ですが、タイの一般的な光景を撮りためた映像集です。<br>

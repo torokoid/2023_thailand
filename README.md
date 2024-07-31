@@ -155,6 +155,7 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 <h2>1984年夏～冬。<br>
     LAのAM品質部門に長滞。<br>
     まだ日本に無かったハロウィンを現地で体験。</h2></div>
+<a href="shinpu.JPG" target="_blank"><img src="shinpu.JPG" alt="サンプル画像" width="900" /></a>
 <a href="halloween.JPG" target="_blank"><img src="halloween.JPG" alt="サンプル画像" width="900" /></a>
 <a href="halloween2.JPG" target="_blank"><img src="halloween2.JPG" alt="サンプル画像" width="900" /></a>
 <a href="halloween3.JPG" target="_blank"><img src="halloween3.JPG" alt="サンプル画像" width="900" /></a>

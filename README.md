@@ -162,6 +162,11 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 <a href="https://www.nhk.or.jp/shutoken/wr/20231027a.html" target="_blank"><img src="haloween.png" alt="サンプル画像" width="900" /></a>
 <br><br><br>
 
+<div class="yellow"> 
+<h2>いつものようにアメリカに出張すると<br>
+    缶コーヒーの蓋が日本と違っていた。</h2></div>
+<a href="kan.png" target="_blank"><img src="kan.png" alt="サンプル画像" width="900" /></a>
+
 
 <div class="yellow"> 
 <h2>時は流れて、2024年の日本では・・・</h2></div>

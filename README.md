@@ -167,6 +167,7 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
     缶コーヒーの蓋が日本と違っていた。</h2></div>
 <a href="kan.png" target="_blank"><img src="kan.png" alt="サンプル画像" width="900" /></a>
 
+<br><br><br><br><br><br>
 
 <div class="yellow"> 
 <h2>時は流れて、2024年の日本では・・・</h2></div>

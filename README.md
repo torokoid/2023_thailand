@@ -159,6 +159,7 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 <a href="halloween.JPG" target="_blank"><img src="halloween.JPG" alt="サンプル画像" width="900" /></a>
 <a href="halloween2.JPG" target="_blank"><img src="halloween2.JPG" alt="サンプル画像" width="900" /></a>
 <a href="halloween3.JPG" target="_blank"><img src="halloween3.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://www.nhk.or.jp/shutoken/wr/20231027a.html" target="_blank"><img src="haloween.png" alt="サンプル画像" width="900" /></a>
 <br><br><br>
 
 

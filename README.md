@@ -159,9 +159,16 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 <a href="halloween.JPG" target="_blank"><img src="halloween.JPG" alt="サンプル画像" width="900" /></a>
 <a href="halloween2.JPG" target="_blank"><img src="halloween2.JPG" alt="サンプル画像" width="900" /></a>
 <a href="halloween3.JPG" target="_blank"><img src="halloween3.JPG" alt="サンプル画像" width="900" /></a>
-
 <br><br><br>
-<h1><span class="snow">本資料の概要</span></h1>
+
+
+<div class="yellow"> 
+<h2>時は流れて、2024年の日本では・・・</h2></div>
+<a href="https://www.sankei.com/article/20240606-4JZKMEG66VJ2NDE4KHTKGUG2UA/" target="_blank"><img src="UFO_giren.JPG" alt="サンプル画像" width="900" /></a>
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<h1><span class="snow">以下の資料概要</span></h1>
 <div class="yellow"> 
 <h1>2023年2月時点の情報ですが、タイの一般的な光景を撮りためた映像集です。<br>
 当時タイのコロナ収束状況はいまいち正確には伝わってはいませんでしたが、<br>現地情報ではほぼ問題なさそうとの事で旅行は決行。<br>

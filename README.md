@@ -164,7 +164,7 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 
 <div class="yellow"> 
 <h2>時は流れて、2024年の日本では・・・</h2></div>
-<a href="https://www.sankei.com/article/20240606-4JZKMEG66VJ2NDE4KHTKGUG2UA/" target="_blank"><img src="UFO_giren.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://www.sankei.com/article/20240606-4JZKMEG66VJ2NDE4KHTKGUG2UA/" target="_blank"><img src="UFO_giren.png" alt="サンプル画像" width="900" /></a>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br>

@@ -114,7 +114,7 @@ a.p:hover span {
     
 <!--ここまでは定型文としてそのままコピペして再利用します-->
     
-<h1><marquee bgcolor="#ffff00"><font color="#ff0000">!!! 定年後に時間を過ごすタイの日常光景を紹介します。羽田 !!!</font></marquee></h1>
+<h1><marquee bgcolor="#ffff00"><font color="#ff0000">!!! 入社直後の回顧録と定年後に時間を過ごすタイの日常光景を紹介します。羽田 !!!</font></marquee></h1>
     
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	

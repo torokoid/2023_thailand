@@ -163,6 +163,10 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
     一日中ビキニ姿で仕事する女性も。</h2></div>
 <a href="halloween.JPG" target="_blank"><img src="halloween.JPG" alt="サンプル画像" width="900" /></a>
 <a href="halloween2.JPG" target="_blank"><img src="halloween2.JPG" alt="サンプル画像" width="900" /></a>
+
+<div class="yellow"> 
+<h2>夜は子供たちが町中の家々を回ってお菓子をもらいます。<br>
+    お菓子をくれない家には、トイレットペーパーのお仕置き。</h2></div>
 <a href="halloween3.JPG" target="_blank"><img src="halloween3.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://www.nhk.or.jp/shutoken/wr/20231027a.html" target="_blank"><img src="halloween.png" alt="サンプル画像" width="900" /></a>
 <!--

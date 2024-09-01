@@ -160,7 +160,7 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 
 <div class="yellow"> 
 <h2>現地メンバーは、全員が仮装姿で過ごします。<br>
-    一日中ビキニ姿で仕事する女性も。</h2></div>
+    中には一日中ビキニ姿で仕事する女性も。</h2></div>
 <a href="halloween.JPG" target="_blank"><img src="halloween.JPG" alt="サンプル画像" width="900" /></a>
 <a href="halloween2.JPG" target="_blank"><img src="halloween2.JPG" alt="サンプル画像" width="900" /></a>
 
@@ -168,6 +168,9 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 <h2>夜は子供たちが町中の家々を回ってお菓子をもらいます。<br>
     お菓子をくれない家には、トイレットペーパーのお仕置き。</h2></div>
 <a href="halloween3.JPG" target="_blank"><img src="halloween3.JPG" alt="サンプル画像" width="900" /></a>
+
+<div class="yellow"> 
+<h2>日本に輸入されたハロウィンは宗教的部分は皆無でお祭り騒ぎの部分のみ！</h2></div>
 <a href="https://www.nhk.or.jp/shutoken/wr/20231027a.html" target="_blank"><img src="halloween.png" alt="サンプル画像" width="900" /></a>
 <!--
 <a href="https://www.nhk.or.jp/shutoken/wr/20231027a.html" target="_blank"><img src="haloween.png" alt="サンプル画像" width="900" /></a>
@@ -176,7 +179,8 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 
 <div class="yellow"> 
 <h2>いつものようにアメリカに出張すると<br>
-    缶コーヒーの蓋が日本と違っていた。</h2></div>
+    缶コーヒーの蓋が日本と違っていた。<br>
+    最初は起こしたブルタブを寝かせないで飲もうとして、鼻に引っかかってのめず！</h2></div>
 <a href="kan.png" target="_blank"><img src="kan.png" alt="サンプル画像" width="900" /></a>
 
 
